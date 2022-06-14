@@ -35,3 +35,9 @@ I don't like my job. I have been wanting to change careers for a long time. In F
 
 ## English
 A1 (A2)
+
+  <ul>
+   <li>Чебурашка</li>
+   <li>Крокодил Гена</li>
+   <li>Шапокляк</li>
+  </ul>
